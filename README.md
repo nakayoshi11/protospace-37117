@@ -32,9 +32,9 @@ commentsテーブル
 
 
 user 単 ー 多 prototypesテーブル
-  単            単
-  |             |
-  多            多
+  単           単
+  |            |
+  多           多
   commentsテーブル
 
 
